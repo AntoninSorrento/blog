@@ -9,15 +9,12 @@
 
 # production
 /dist
-/docs-dist
 
 # misc
 .DS_Store
-.idea
 
 # umi
 .umi
 .umi-production
-.umi-test
 .env.local
-
+.idea

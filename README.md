@@ -1,3 +1,3 @@
-# blog
+# <p align="center"> blog <p>
 
-> 个人中心
+> 记录各类知识点

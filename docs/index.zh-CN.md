@@ -1,5 +1,5 @@
 ---
 hero:
   title: Antonin Sorrento
-  desc: ChenYing's blog
+  desc: 陈迎的博客
 ---
