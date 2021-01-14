@@ -5,6 +5,10 @@ export default defineConfig({
   mode: 'site',
   navs: [
     {
+      title: '小说',
+      path: '/novel',
+    },
+    {
       title: '程序',
       path: '/programmer',
     },
